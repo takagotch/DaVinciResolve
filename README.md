@@ -1,4 +1,4 @@
-### o
+### DaVinci Resolve
 ---
 
 
